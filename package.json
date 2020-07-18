@@ -1,9 +1,9 @@
 {
-  "name": "gatsby-starter-blog",
+  "name": "blog-gatsby",
   "private": true,
-  "description": "A starter for a blog powered by Gatsby and Markdown",
+  "description": "A Gatsby and Markdown powered blog",
   "version": "0.1.0",
-  "author": "Kyle Mathews <mathews.kyle@gmail.com>",
+  "author": "Nabil Ahmad",
   "bugs": {
     "url": "https://github.com/gatsbyjs/gatsby/issues"
   },
@@ -36,9 +36,10 @@
     "typography-theme-wordpress-2016": "^0.16.19"
   },
   "devDependencies": {
-    "prettier": "2.0.5"
+    "prettier": "2.0.5",
+    "tailwindcss": "^1.5.1"
   },
-  "homepage": "https://github.com/gatsbyjs/gatsby-starter-blog#readme",
+  "homepage": "",
   "keywords": [
     "gatsby"
   ],
@@ -46,7 +47,7 @@
   "main": "n/a",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/gatsbyjs/gatsby-starter-blog.git"
+    "url": "git+https://github.com/Nabil5352/blog-demo.git"
   },
   "scripts": {
     "build": "gatsby build",
