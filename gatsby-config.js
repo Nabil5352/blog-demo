@@ -7,7 +7,19 @@ module.exports = {
     },
     description: `A starter documentation site`,
     siteUrl: `https://nabil-ahmad.com/`,
-    
+    social: {
+      twitter: `nabil5352`,
+    },
+    menuLinks: [
+      {
+        name: "home",
+        link: "/"
+      },
+      {
+        name: "about",
+        link: "/about"
+      }
+    ]
   },
   plugins: [
     {
